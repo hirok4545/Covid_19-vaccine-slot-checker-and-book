@@ -1,5 +1,8 @@
 #----Improvement needed for registering auto---
-#---author Hirokjyoti Deka@covid_India
+#---author Hirokjyoti Deka
+#---github---https://github.com/hirok4545
+#--->id_hdeka731@gmail.com
+#@covid_India
 import requests
 from requests.structures import CaseInsensitiveDict
 from time import sleep 
