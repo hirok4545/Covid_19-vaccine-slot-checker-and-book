@@ -4,7 +4,6 @@
 #--->id_hdeka731@gmail.com
 #@covid_India
 import requests
-from requests.structures import CaseInsensitiveDict
 from time import sleep 
 
 
